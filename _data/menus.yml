@@ -6,11 +6,9 @@
   url: /about/
   external: false
 
-  
 - title: Instagram
   url: https://www.instagram.com/tim.obermeister/
   external: true
-
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
