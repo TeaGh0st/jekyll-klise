@@ -8,8 +8,8 @@
 
   
 - title: Instagram
-url: https://www.instagram.com/tim.obermeister/
-external: true
+  url: https://www.instagram.com/tim.obermeister/
+  external: true
 
 # Example:
 # - title: github
