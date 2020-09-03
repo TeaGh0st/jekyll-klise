@@ -1,7 +1,7 @@
 # Site settings
 title: Ich hab keinen.Blog # site title
 description: >- # site description
-  
+  Kurzgeschichten, Kommentare und feinste Satire von einem 20 Jährigen Taugenichts. Viel Spaß beim Lesen.
 lang: de-DE # default lang
 timezone: Berlin/London # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,19 +10,18 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Your Name # author name
-  bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # author username
+  name: Tim # author name
+  bio: Kurzgeschichten, mittelmäßige Satire und weitere Texte, die Dich hoffentlich zum Lachen bringen findest Du hier. # tell to the world
+    
+  username: Tim # author username
   github: github_username
   twitter: twitter_username
   facebook: facebook_username
-  email: your-email@email.com # your contact adress
+  email: tober1203@gmail.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
-url: "https://klise.now.sh"
+url: "http://ich-hab-keinen.blog"
 baseurl:
 permalink: /:title/
 google_analytics:

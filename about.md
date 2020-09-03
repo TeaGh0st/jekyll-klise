@@ -1,8 +1,8 @@
 ---
-title: Colophon
+title: Über mich
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hi, ich bin Tim und bin 20 Jahre alt (oder so). Ich arbeite normalerweise im Marketing und schreibe gerne Texte jeglicher Art. Manchmal rappe ich auch. Aber das ist auf dem Papier meist nicht so rhythmisch. Sonst mache ich gerne Sport, zocke gerne... ach ne warte das ist kein verdammtes Freundebuch. Aber mein Lieblingsessen ist Pizza (ich bin so besonders).
 comments: false
 ---
 
