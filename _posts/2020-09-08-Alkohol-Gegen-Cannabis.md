@@ -1,6 +1,6 @@
 ---
 title: Was schadet dir?
-date: 2020-09.08
+date: 2020-09-08
 tags: [Kommentar, Was schadet dir, Satire]
 ---
 
