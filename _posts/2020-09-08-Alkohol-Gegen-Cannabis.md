@@ -22,4 +22,4 @@ Mit 20 Jahren schreibe ich hier, als hätte ich die Weisheit mit Löffen gefress
 
 Wer außerhalb vom Matheunterricht schonmal differenziert hat, bemerkt eine Tendenz. Sollten wir also doch alle bei Alkohol bleiben? Um den Vergleich anschaulicher zu machen folgen nun noch ein paar Argurmente der Contraseite. Nur wechseln wir "Alkohol" mit "Heroin".
 
-"Ich habe kein Problem mit Heroin. Ich genehemige mir lediglich nach Feierabend zum Tatort eine gemächliche Spritze. / Was? Du spritzt nicht? Was bist Du denn für ein langweiler. So ne kleine Dosis hat noch keinem geschadet! / Der Manuel durfte sich zu seinem 15. Geburtstag seinen ersten Schuss setzen - wir leben schließlich in Bayern!"
+"Was? Du spritzt nicht? Was bist Du denn für ein Langweiler. So ne kleine Dosis hat noch keinem geschadet! / Ich habe kein Problem mit Heroin. Ich genehemige mir lediglich nach Feierabend zum Tatort eine gemächliche Spritze. / Der Manuel durfte sich zu seinem 15. Geburtstag seinen ersten Schuss setzen - wir leben schließlich in Bayern!"
